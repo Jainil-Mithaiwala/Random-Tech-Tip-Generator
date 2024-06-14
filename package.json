@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "express": "^4.17.2",
-    "cors": "^2.8.5"  // Include other dependencies your app requires
+    "cors": "^2.8.5"
   },
   "author": "Jainil",
   "license": "ISC"
