@@ -2,11 +2,15 @@
   "name": "node-js",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "randomtechtips.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node randomtechtips.js"
   },
-  "author": "",
+  "dependencies": {
+    "express": "^4.17.2",
+    "cors": "^2.8.5"  // Include other dependencies your app requires
+  },
+  "author": "Jainil",
   "license": "ISC"
 }
